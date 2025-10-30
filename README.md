@@ -42,4 +42,4 @@ DAX (Data Analysis Expressions) for calculated metrics
 
 **📈 Purpose:**
 
-To help organizations understand and optimize their IT budget by identifying key cost drivers, high-spend vendors, and regional spending patterns
+To help organizations understand and optimize their IT budget by identifying key cost drivers, high-spend vendors, and regional spending patterns.
