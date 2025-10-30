@@ -2,7 +2,7 @@
 
 This project presents an interactive Power BI dashboard that provides a detailed analysis of IT expenditure across various categories, regions, and vendors for the year 2024.
 
-** Key Insights**:
+**Key Insights**:
 
 Total IT Spend: ₹937.6M
 
