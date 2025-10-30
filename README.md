@@ -1,8 +1,8 @@
-**IT Spend Analysis Dashboard – 2024**
+IT Spend Analysis Dashboard – 2024
 
 This project presents an interactive Power BI dashboard that provides a detailed analysis of IT expenditure across various categories, regions, and vendors for the year 2024.
 
-**Key Insights**:
+📊 Key Insights:
 
 Total IT Spend: ₹937.6M
 
@@ -22,7 +22,7 @@ Spending Trend: Peaks in March and October
 
 Contract Types: Annual contracts dominate with ₹324M
 
-**Features**:
+⚙️ Features:
 
 Interactive slicers for Category, Vendor, and Service Type
 
@@ -40,6 +40,6 @@ Excel/CSV for data source management
 
 DAX (Data Analysis Expressions) for calculated metrics
 
-**Purpose**:
+📈 Purpose:
 
 To help organizations understand and optimize their IT budget by identifying key cost drivers, high-spend vendors, and regional spending patterns
