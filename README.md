@@ -4,27 +4,27 @@ This project presents an **interactive Power BI dashboard** that provides a deta
 
 **📊Key Insights:**
 
-Total IT Spend: ₹937.6M
+**Total IT Spend**: ₹937.6M
 
-Hardware Spend: ₹470.23M
+**Hardware Spend:** ₹470.23M
 
-Software Spend: ₹467.37M
+**Software Spend:** ₹467.37M
 
-Top Vendors: Microsoft, Oracle, HP, Salesforce, Lenovo
+**Top Vendors:** Microsoft, Oracle, HP, Salesforce, Lenovo
 
-Highest Spending Regions: Africa, Asia-Pacific, and Europe
+**Highest Spending Regions:** Africa, Asia-Pacific, and Europe
 
-Top Categories: Licenses, Storage, CRM, Networking
+**Top Categories:** Licenses, Storage, CRM, Networking
 
-Departmental Spend: Sales and Operations lead IT expenditures
+**Departmental Spend:** Sales and Operations lead IT expenditures
 
-Spending Trend: Peaks in March and October
+**Spending Trend:** Peaks in March and October
 
-Contract Types: Annual contracts dominate with ₹324M
+**Contract Types:** Annual contracts dominate with ₹324M
 
 **⚙️ Features:**
 
-Interactive slicers for Category, Vendor, and Service Type
+Interactive slicers for **Category**, **Vendor**, and **Service Type**
 
 Visualization of cost breakdown by region, vendor, department, and month
 
