@@ -26,19 +26,19 @@ This project presents an **interactive Power BI dashboard** that provides a deta
 
 Interactive slicers for **Category**, **Vendor**, and **Service Type**
 
-Visualization of cost breakdown by region, vendor, department, and month
+Visualization of **cost breakdown by region, vendor, department, and month**
 
-Clear distinction between hardware and software spending
+Clear distinction between **hardware and software spending**
 
-Easy comparison of contract types (Annual, Monthly, One-time)
+Easy comparison of **contract types (Annual, Monthly, One-time)**
 
 **🛠️ Tools Used:**
 
-Power BI for data modeling and visualization
+**Power BI** for data modeling and visualization
 
-Excel/CSV for data source management
+**Excel/CSV** for data source management
 
-DAX (Data Analysis Expressions) for calculated metrics
+**DAX (Data Analysis Expressions)** for calculated metrics
 
 **📈 Purpose:**
 
